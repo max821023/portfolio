@@ -2189,3 +2189,11 @@ input, select, textarea {
 			}
 
 		}
+
+.project-icons {
+	opacity: 80%;
+}
+
+.project-icons:hover {
+	opacity: 100%;
+}
