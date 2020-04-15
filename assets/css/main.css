@@ -2197,3 +2197,14 @@ input, select, textarea {
 .project-icons:hover {
 	opacity: 100%;
 }
+
+.resume {
+	border-bottom: dotted 1px;
+	text-decoration: none;
+	color: inherit;
+}
+
+.resume:hover {
+	border-bottom: none;
+	color: rgb(74, 218, 175);
+}
