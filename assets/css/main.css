@@ -2208,3 +2208,12 @@ input, select, textarea {
 	border-bottom: none;
 	color: rgb(74, 218, 175);
 }
+
+.mail-me {
+	color: inherit;
+	transition: color 0.2s;
+}
+
+.mail-me:hover {
+	color: gray;
+}
